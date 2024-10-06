@@ -1,0 +1,36 @@
+body {
+    background-color: rgb(198, 198, 198);
+    margin:20px;
+}
+    a:link {
+        color:rgb(221, 0, 0);
+    }
+    a:hover {
+        color:rgb(255, 255, 255);
+    }
+    a:visited {
+        color:rgb(1, 42, 209);
+    }
+    h1 {
+        color:rgb(3, 3, 91);
+        font-family:Verdana, Geneva, Tahoma, sans-serif;
+        border: solid 7px rgb(255, 255, 255);
+        text-align: center;
+    }
+    h2 {
+        color:rgb(114, 4, 4);
+        font-family:Verdana, Geneva, Tahoma, sans-serif;
+        
+    }
+    h3 {
+        color:rgb(3, 3, 91);
+        font-family:Verdana, Geneva, Tahoma, sans-serif;
+    }
+    p {
+        color:rgb(3, 3, 91);
+        font-family: Verdana, Geneva, Tahoma, sans-serif;
+    }
+    ul {
+        color:rgb(3, 3, 91);
+        font-family: Verdana, Geneva, Tahoma, sans-serif;
+    }
