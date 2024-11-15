@@ -34,7 +34,7 @@ body {
         color:rgb(3, 3, 91);
         font-family: Verdana, Geneva, Tahoma, sans-serif;
     }
-    table, th, td {
+    table {
         border: 1px solid;
         font-family:Verdana, Verdana, Geneva, Tahoma, sans-serif;
     }
