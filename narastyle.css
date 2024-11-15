@@ -35,6 +35,6 @@ body {
         font-family: Verdana, Geneva, Tahoma, sans-serif;
     }
     table {
-        border: 1px solid;
+        border: solid 1px black;
         font-family:Verdana, Verdana, Geneva, Tahoma, sans-serif;
     }
