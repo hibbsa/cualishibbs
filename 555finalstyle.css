@@ -1,0 +1,46 @@
+body {
+    background-color: rgb(198, 192, 192);
+    margin: 20px;
+}
+h1 {
+    color:rgb(41, 39, 110);
+    font-family: Verdana, Geneva, Tahoma, sans-serif;
+    border: solid 7px rgb(167, 11, 11);
+    margin: 3px;
+    text-align: center;
+}
+h2 {
+    color:rgb(41, 39, 110);
+    font-family: Verdana, Geneva, Tahoma, sans-serif;
+    border-bottom: solid 3px rgb(167, 11, 11);
+    margin-bottom: 3px;
+    text-align: left;
+}
+h3 {
+    color:rgb(41, 39, 110);
+    font-family: Verdana, Geneva, Tahoma, sans-serif;
+
+}
+h4 {
+    color: rgb(41, 39, 110);
+}
+p {
+    color: rgb(41, 39, 110);
+    font-family: Verdana, Geneva, Tahoma, sans-serif;
+}
+a:link {
+    color: rgb(167, 11, 11);
+    font-family: Verdana, Geneva, Tahoma, sans-serif;
+}
+a:hover {
+    color: rgb(239, 16, 16);
+    font-family: Verdana, Geneva, Tahoma, sans-serif;
+}
+a:visited {
+    color: rgb(39, 48, 179);
+    font-family: Verdana, Geneva, Tahoma, sans-serif;
+}
+ul {
+    color: rgb(41, 39, 110);
+    font-family: Verdana, Geneva, Tahoma, sans-serif;
+}
